@@ -20,7 +20,7 @@
 			</p>
 		<div id="right-box">
 			<p>
-				Office Deliver Address:<br>
+				Office Delivery Address:<br>
 				3061 Fulton Avenue<br>
 				Sacramento, CA 95821
 			</p>
