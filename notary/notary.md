@@ -5,8 +5,8 @@ We offer a complete line of California Notary supplies, bonds and insurance.
 You can download our:
 
 * [Notary Products Catalog](./pdf/notarycatalog.pdf)
-* [Notary products Order form](./pdf/notaryorderform.pdf)
-* [Errors & Omissions bond application](./pdf/e_and_o_app.pdf)
+* [Notary Products Order form](./pdf/notaryorderform.pdf)
+* [Errors & Omissions application](./pdf/e_and_o_app.pdf)
 
 ###Stamps
 
