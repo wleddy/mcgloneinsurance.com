@@ -1,9 +1,11 @@
 
 ##Contact Us
 
-Phone: (916) 484-0804
+eMail: <mcgloneorderdesk@mycci.net>
 
 Fax: (916) 484-6258
+
+Phone: (916) 484-0804
 
 3061 Fulton Ave. (Physical Address)
 
