@@ -25,7 +25,7 @@ Compact rubber stamp and an ink pad in a hinged case.
 
 ####Self-Inking Rubber Stamp
 
-![Self-inking Stamp](/images/Printy.jpeg)
+![Self-inking Stamp](/images/printy.jpeg)
 
 No need for a separate ink pad. Uses regular rubber stamp ink for re-inking.
 
