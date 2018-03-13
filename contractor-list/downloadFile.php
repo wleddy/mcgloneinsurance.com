@@ -36,10 +36,10 @@ function getDBALayout(){
 		"APP-TP"  => array(1,false),
 		"APP-ENTITY-CDE"  => array(2,false),
 		"APP-EXAM-WAIVER-CDE"  => array(1,false),
-		"PRINT-NAME"  => array(65,true),
+		"PRINT-NAME"  => array(65,false),
 		"APP-DBA-NAME"  => array(65,true),
-		"APP-NAME"  => array(65,true),
-		"LIC-NUM"  => array(8,true),
+		"APP-NAME"  => array(65,false),
+		"LIC-NUM"  => array(8,false),
 		"APP-ADDR1"  => array(30,true),
 		"APP-ADDR2"  => array(30,true),
 		"APP-CITY"  => array(25,true),
@@ -49,7 +49,7 @@ function getDBALayout(){
 		"FILLER1"  => array(10,false),
 		"APP-CLASSES" => array(90,false),
 		"FILLER2" => array(1,false),
-		"APP-POST-DT"  => array(8,true),
+		"APP-POST-DT"  => array(8,false),
 		"EXAMEE-LNAME"  => array(35,true),
 		"EXAMEE-FNAME"  => array(15,true),
 		"EXAMEE-MNAME"  => array(12,true),
@@ -69,13 +69,13 @@ function getHILayout(){
 		"APP-TP"  => array(1,false),
 		"APP-ENTITY-CDE"  => array(2,false),
 		"APP-EXAM-WAIVER-CDE"  => array(1,false),
-		"PRINT-NAME"  => array(65,true),
+		"PRINT-NAME"  => array(65,false),
 		"EXAMEE-LNAME"  => array(35,true),
 		"EXAMEE-FNAME"  => array(15,true),
 		"EXAMEE-MNAME"  => array(12,true),
 		"EXAMEE-SFX"  => array(3,true),
-		"APP-NAME" => array(65,true),
-		"LIC-NUM"  => array(8,true),
+		"APP-NAME" => array(65,false),
+		"LIC-NUM"  => array(8,false),
 		"APP-ADDR1"  => array(30,true),
 		"APP-ADDR2"  => array(30,true),
 		"APP-CITY"  => array(25,true),
@@ -85,7 +85,7 @@ function getHILayout(){
 		"FILLER1"  => array(10,false),
 		"APP-CLASSES" => array(90,false),
 		"FILLER2" => array(1,false),
-		"APP-POST-DT"  => array(8,true),
+		"APP-POST-DT"  => array(8,false),
 		"EMPTY1"  => array(35,false),
 		"EMPTY2"  => array(15,false),
 		"EMPTY3"  => array(12,false),
@@ -147,6 +147,7 @@ function getFile($filePath){
 		
 		// create the output text
 		$out = "";
+		/*
 		// output header row
 		$columns = getDBALayout();
 		foreach ($columns as $colKey => $colSize) {
@@ -156,8 +157,8 @@ function getFile($filePath){
 		}
 		// remove trailing comma and add return
 		$out = substr($out,0, -1);
-		$out = $out . "\n";
-		
+		$out = $out . "\r\n";
+		*/
 		//output the data
 		foreach($data as $row => $line) {
 			foreach ($columns as $colKey => $colSize) {
@@ -169,7 +170,7 @@ function getFile($filePath){
 				}
 			}
 			// remove trailing comma and add return
-			$out = substr($out,0, -1) . "\n";;
+			$out = substr($out,0, -1) . "\r\n";;
 		}
 		
 		// Finally, remove the final return
