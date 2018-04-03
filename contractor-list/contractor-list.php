@@ -73,6 +73,11 @@ function getList($targetListURL){
 ?>
 
 <h2>Application List</h2>
+<div id="helpers">
+    <h3>Just in case you need them...</h3>
+    <p>Download the <a href="panorama/Contractor%20List%20Instructions.pdf">instructions here</a></p>
+    <p>Get a copy of the <a href="panorama/Contractor%20List.pan.zip">Panorama file</a>. (from Feb. 2018)</p>
+</div>
 <table style="margin:10pt auto;">
 	<?php  echo getList($targetListURL); ?>
 </table>
