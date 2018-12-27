@@ -13,5 +13,6 @@ PO Box 215774 (Mailing Address)
 
 Sacramento, CA 95821
 
+### Hours: 9AM to 5PM, Monday thru Friday
 
 <p class="fineprint">Walk-ins welcome. If you're in the neighborhood, stop in and see us!</p>
