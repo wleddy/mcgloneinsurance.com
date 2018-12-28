@@ -4,8 +4,8 @@ We offer a complete line of California Notary supplies, bonds and insurance.
 
 You can download our:
 
-* [Notary Products Order form](./pdf/notaryorderform.pdf)
-* [Notary Products Flyer](./pdf/notaryflyer.pdf)
+* [Notary Products Order form](./pdf/Notary_Order_Form_2018.pdf)
+* [Notary Products Flyer](./pdf/Notary_Flyer_2018.pdf)
 
 ###Stamps
 
