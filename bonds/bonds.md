@@ -5,7 +5,7 @@ click on the desired bond for an application which can be printed and sent to us
 <div align="center">
 <table border="0" cellspacing="12pt" cellpadding="12pt">
 	<tr>
-		<td><b>*<a href="/pdf/guide_license.jpg">Guide License Bond</a></b></td>
+		<td><b>*<a href="/pdf/Guide_License.pdf">Guide License Bond</a></b></td>
 		<td><b>*Notary Public Bond</b></td>
 	</tr>
 	<tr>
@@ -27,8 +27,7 @@ are:</p>
 			<td width="308">
 			<ul style="margin-top: 0; margin-bottom: 0">
 				<li>Contractor License Bond</li>
-				<li>Contractor Bid/Performance/Payment 
-				Bond</li>
+				<li><a href="/pdf/Bid_Performance_Payment.pdf">Contractor Bid/Performance/Payment Bond</a></li>
 				<li><a href="/pdf/court01.jpg">Court Bonds</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
 				<li><a href="/pdf/Driving_School.pdf">Driving School Bond</a></li>
@@ -48,6 +47,7 @@ are:</p>
 				<li><a href="/pdf/court01.jpg">Insurance Adjuster Bond</a> 
 				pg <a href="/pdf/court01.jpg">2</a>.</li>
 				<li><a href="/pdf/Insurance_Broker.pdf">Insurance Broker Bond</a></li>
+				<li><a href="/pdf/Janitorial_Services.pdf">Janitorial Services Bond</a></li>
 				<li><a href="/pdf/Lost_Note_Deed_of_Trust.pdf">Lost Trust Deed/Note Bond</a></li>
 				<li><a href="/pdf/court01.jpg">Motor Vehicle Dealer Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
