@@ -15,7 +15,7 @@ click on the desired bond for an application which can be printed and sent to us
 	</tr>
 	<tr>
 		<td><b>*<a href="/pdf/process_server.jpg">Professional Photocopiers</a></b></td>
-		<td><b>*Tax Preparers</b></td>
+		<td><b><a href="/pdf/Tax_Preparer.pdf">*Tax Preparers</b></td></td>
 	</tr>
 </table>
 </div>
@@ -31,37 +31,35 @@ are:</p>
 				Bond</li>
 				<li><a href="/pdf/court01.jpg">Court Bonds</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
-				<li>Driving School Bond</li>
-				<li>Employee Dishonesty Bond</li>
+				<li><a href="/pdf/Driving_School.pdf">Driving School Bond</a></li>
+				<li><a href="/pdf/Employee_Dishonesty.pdf">Employee Dishonesty Bond</a></li>
 				<li><a href="/pdf/court01.jpg">Encroachment Permit Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
 				<li><a href="/pdf/court01.jpg">Engine Verifier Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
-				<li><a href="/pdf/erisa.jpg">ERISA Bond</a></li>
-				<li><a href="/pdf/finance_lender.jpg">Finance Lender Bond</a></li>
-				<li><a href="/pdf/court01.jpg">Foreign Vehicle Ownership</a> 
-				pg <a href="/pdf/court01.jpg">2</a>.</li>
-				<li><a href="/pdf/finance_lender.jpg">Immigration Consultant Bond</a></li>
+				<li><a href="/pdf/ERISA_Bond.pdf">ERISA Bond</a></li>
+				<li><a href="/pdf/Finance_Lender_Bond.pdf">Finance Lender Bond</a></li>
+				<li><a href="/pdf/Foreign_Vehicle_Ownership.pdf">Foreign Vehicle Ownership</a></li>
+				<li><a href="/pdf/Immigration_Consultant.pdf">Immigration Consultant Bond</a></li>
 			</ul>
 			</td>
 			<td valign="top">
 			<ul style="margin-top: 0; margin-bottom: 0">
 				<li><a href="/pdf/court01.jpg">Insurance Adjuster Bond</a> 
 				pg <a href="/pdf/court01.jpg">2</a>.</li>
-				<li>Insurance Broker Bond</li>
-				<li><a href="/pdf/lost_trust.jpg">Lost Trust Deed/Note Bond</a></li>
+				<li><a href="/pdf/Insurance_Broker.pdf">Insurance Broker Bond</a></li>
+				<li><a href="/pdf/Lost_Note_Deed_of_Trust.pdf">Lost Trust Deed/Note Bond</a></li>
 				<li><a href="/pdf/court01.jpg">Motor Vehicle Dealer Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
-				<li><a href="/pdf/court01.jpg">Motor Vehicle Defective Title Bond</a> 
-				pg <a href="/pdf/court02.jpg">2</a>.</li>
+				<li><a href="/pdf/DMV_Defective_Title.pdf">Motor Vehicle Defective Title Bond</a></li>
 				<li><a href="/pdf/court01.jpg">Pest Control Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
 				<li><a href="/pdf/court01.jpg">Probate Bond</a> 
 				pg <a href="/pdf/court02.jpg">2</a>.</li>
 				<li>Sales Tax Bond</li>
-				<li>Traffic School Bond</li>
-				<li><a href="/pdf/finance_lender.jpg">Unlawful Detainer Bond</a></li>
-				<li>Union Welfare Bond</li>
+				<li><a href="/pdf/Traffic_School.pdf">Traffic School Bond</a></li>
+				<li><a href="/pdf/Unlawful_Detainer.pdf">Unlawful Detainer Bond</a></li>
+				<li><a href="/pdf/Union_Welfare.pdf">Union Welfare Bond</a></li>
 			</ul>
 			</td>
 		</tr>
