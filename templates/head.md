@@ -15,7 +15,7 @@
 		<div id="center-box">
 			<p>
 				License # 0585177<br>
-				eMail: <a href="mailto:mcgloneorderdesk@mycci.net" >mcgloneorderdesk@mycci.net</a><br>
+				eMail: <a href="orderdesk@mcgloneinsurance.com" >orderdesk@mcgloneinsurance.com</a><br>
 				(916) 484-0804<br>
 				FAX (916) 484-6258
 			</p>

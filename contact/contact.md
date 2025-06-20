@@ -1,7 +1,7 @@
 
 ##Contact Us
 
-eMail: <mcgloneorderdesk@mycci.net>
+eMail: <orderdesk@mcgloneinsurance.com>
 
 Fax: (916) 484-6258
 
