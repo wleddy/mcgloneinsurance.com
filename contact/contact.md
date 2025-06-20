@@ -1,7 +1,7 @@
 
 ##Contact Us
 
-eMail: <a mailto:orderdesk@mcgloneinsurance.com>orderdesk@mcgloneinsurance.com</a><br>
+eMail: <a href="mailto:orderdesk@mcgloneinsurance.com">orderdesk@mcgloneinsurance.com</a><br>
 
 Fax: (916) 484-6258
 
