@@ -1,0 +1,51 @@
+{% extends "layout.html" %}
+{% block title %}{{g.title}}{% endblock %}
+{% block body %}
+<style>
+	#content p img{
+    width:60%;
+}	
+</style>
+<div id="content">
+<h2>Notary Supplies</h2>
+
+<p>We offer a complete line of California Notary supplies, bonds and insurance. </p>
+
+<p>You can download our:</p>
+
+<ul>
+<li><a href="{{ url_for('static', filename='pdf/Notary_Order_Form_2018.pdf' )}}">Notary Products Order form</a></li>
+<li><a href="{{url_for('static', filename='pdf/Notary_Flyer_2018.pdf' )}}">Notary Products Flyer</a></li>
+</ul>
+
+<h3>Stamps</h3>
+
+<p>We offer four types of Notary Stamps.</p>
+
+<h4>Regular Rubber Stamp</h4>
+
+<p><img src="{{ url_for('static', filename='images/mouldingstamp.jpeg' )}}" alt="Moulding Stamp' )}}" /></p>
+
+<p>The most economical style of stamp. Use it with an ink pad (sold separately).</p>
+
+<h4>Compact Rubber Stamp</h4>
+
+<p><img src="{{ url_for('static', filename='images/vienna.jpeg' )}}" alt="Vienna Compact Stamp' )}}" /></p>
+
+<p>Compact rubber stamp and an ink pad in a hinged case.</p>
+
+<h4>Self-Inking Rubber Stamp</h4>
+
+<p><img src="{{ url_for('static', filename='images/printy.jpeg' )}}" alt="Self-inking Stamp' )}}" /></p>
+
+<p>No need for a separate ink pad. Uses regular rubber stamp ink for re-inking.</p>
+
+<h4>Pre-Inked Stamp</h4>
+
+<p><img src="{{ url_for('static', filename='images/preinked.jpeg' )}}" alt="Per-inked Stamp' )}}" /></p>
+
+<p>The ultimate in convenience and print quality. Thousands of perfect impressions without re-inking.</p>
+</div>
+
+
+{% endblock body%}
