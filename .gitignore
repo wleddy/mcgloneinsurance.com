@@ -20,3 +20,6 @@ shotglass/
 
 # local storage location
 resource/
+
+# Hide the old php version
+Old_PHP
